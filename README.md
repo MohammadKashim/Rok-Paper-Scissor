@@ -84,7 +84,7 @@
 **🔗 Clone the Repository**
 
 ```bash
-git clone https://github.com/manishrnl/Rock-Paper-Scissor.git
+git clone https://github.com/MohammadKashim/Rok-Paper-Scissor.git
 cd Rock-Paper-Scissor
 ```
 
